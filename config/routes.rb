@@ -16,6 +16,7 @@ Rails.application.routes.draw do
   #   resources :products
   root 'welcome#index'
   get 'my_portfolio' => 'users#my_portfolio'
+  get 'search_stocks' => 'stocks#search'
   # Example resource route with options:
   #   resources :products do
   #     member do
