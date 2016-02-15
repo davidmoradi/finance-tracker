@@ -1,0 +1,10 @@
+Searching 536 files for "please add some" (regex)
+
+/Users/DavidWishpond/development/finance-tracker/app/views/users/my_friends.html.erb:
+   34  <% else %>
+   35  <div class='row col-lg-12'>
+   36: 	<p class="lead">You don't have any friends yet. Lets add some!</p>
+   37  </div>
+   38  <% end %>
+
+1 match in 1 file
